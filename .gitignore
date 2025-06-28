@@ -6,6 +6,13 @@
 *.swp
 .buildlog/
 .history
+.vscode/
+.DS_Store
+.env
+.env.local
+.env.production
+.env.development
+supabase/.env
 
 
 
