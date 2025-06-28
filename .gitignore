@@ -14,6 +14,10 @@
 .env.development
 supabase/.env
 
+.env
+.env.local
+.env.production
+.env.development
 
 
 # Flutter repo-specific
